@@ -5,12 +5,22 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+[![GitHub forks](https://img.shields.io/github/forks/HarshCasper/Rotten-Scripts.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/HarshCasper/Rotten-Scripts/network/)
+[![GitHub stars](https://img.shields.io/github/stars/HarshCasper/Rotten-Scripts.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/HarshCasper/Rotten_scripts/stargazers/)
+
+
+[![GitHub issues](https://img.shields.io/github/issues/HarshCasper/Rotten-Scripts.svg)](https://github.com/HarshCasper/Rotten-Scripts/issues)
+[![GitHub issues closed](https://img.shields.io/github/issues-closed/HarshCasper/Rotten-Scripts.svg)](https://github.com/HarshCasper/Rotten-Scripts/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/HarshCasper/Rotten-Scripts.svg)](https://github.com/HarshCasper/Rotten-Scripts/pulls)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/HarshCasper/Rotten-Scripts.svg)](https://github.com/HarshCasper/Rotten-Scripts/pulls?q=is%3Apr+is%3Aclosed)
+
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-go.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 
 ## 📌 Introduction
@@ -29,11 +39,23 @@ You can refer to the following articles on basics of Git and Github and also con
 
 ## 💥 How to Contribute?
 
-- Take a look at the Existing Issues or create your own Issues!
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+- Take a look at the Existing [Issues](https://github.com/HarshCasper/Rotten-Scripts/issues) or create your own Issues!
 - Wait for the Issue to be assigned to you after which you can start working on it.
 - Fork the Repo and create a Branch for any Issue that you are working upon.
+- Read the [Code of Conduct](https://github.com/HarshCasper/Rotten-Scripts/blob/master/CODE_OF_CONDUCT.md)
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
 - Add Screenshots to help us know what this Script is all about.
+- Having difficulty in contributing? Read the [Contribution Guide](https://github.com/HarshCasper/Rotten-Scripts/blob/master/CONTRIBUTING.md) for detailed explanation.
+
+## 💻 Languages used in this project
+
+- [Python](https://github.com/HarshCasper/Rotten-Scripts/tree/master/Python)
+- [JavaScript](https://github.com/HarshCasper/Rotten-Scripts/tree/master/JavaScript)
+- [GoLang](https://github.com/HarshCasper/Rotten-Scripts/tree/master/Go)
+
 
 ## Contributors ✨
 
@@ -90,15 +112,3 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | <a href="https://www.linkedin.com/in/harsh-bardhan-mishra-b19990173/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a> |
 
 > **_Need help? Feel free to contact me @ [erbeusgriffincasper@gmail.com](mailto:erbeusgriffincasper@gmail.com?Subject=RottenScripts)_**
-
-## ⚡ Mentors
-
-|                                 <a href="https://github.com/abhishekmankuskar"><img src="https://avatars1.githubusercontent.com/u/55200658?s=460&u=6dde1c68c953f40de5720c21165eed8e1cda7a1d&v=4" width=150px height=150px /></a>                                  |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                        **[ABHISHEK MANKUSKAR](https://www.linkedin.com/in/abhishek-mankuskar-03790018b/)**                                                                                        |
-| <a href="https://www.linkedin.com/in/abhishek-mankuskar-03790018b/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a> |
-
-|                                    <a href="https://github.com/som23ya"><img src="https://avatars1.githubusercontent.com/u/43650322?s=400&u=92ee0c4df8e65d8679a4864af03f79a784e396bd&v=4" width=150px height=150px /></a>                                     |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                          **[Somya Upadhyay](https://www.linkedin.com/in/somya-upadhyay-5b2028166/)**                                                                                          |
-| <a href="https://www.linkedin.com/in/somya-upadhyay-5b2028166/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a> |
